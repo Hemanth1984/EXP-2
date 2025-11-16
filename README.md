@@ -53,6 +53,9 @@ Tabulation
 ![3](https://github.com/user-attachments/assets/ee30f8d5-961f-48fd-9512-a7d7d33733f3)
 ![4](https://github.com/user-attachments/assets/229405e7-db23-4585-bf3c-f213ae73756c)
 ![5](https://github.com/user-attachments/assets/98fcdb59-3d9d-43cf-9716-20644247134d)
+<img width="1688" height="781" alt="500835616-59fb4fcb-fdc6-4541-9f2f-e191a239f988" src="https://github.com/user-attachments/assets/858a1318-e6f3-4c5d-905f-947532278d82" />
+
+<img width="1662" height="573" alt="500835685-d8575314-75b0-44c1-9482-3a04f7adfd72" src="https://github.com/user-attachments/assets/5dc45b26-4cba-4429-8e8f-227e1776bb6f" />
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
